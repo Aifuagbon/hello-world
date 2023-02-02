@@ -1,3 +1,3 @@
 # hello-world
 i am in town
-i will bw with you shortly
+i will be with you shortly
